@@ -45,6 +45,7 @@ Pin your favourites so they float to the top of my profile ⬆️
 
 ## ✍️ What I'm thinking about rn
 why a 12-year-old needs an RTX 4090
+
 ---
 
 ## 💬 Let’s chat
