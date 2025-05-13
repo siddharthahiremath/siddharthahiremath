@@ -12,7 +12,7 @@
 ## 🚀 What I’m hacking on right now
 | Project | TL;DR |
 |---------|-------|
-| **OpsAI** | A desktop agent that sees, clicks & types so you don’t have to. Python + OpenCV + GPT function-calling. |
+| **Web Browsing Agent** | A desktop agent that sees, clicks & types so you don’t have to. Python + OpenCV + GPT function-calling. |
 | **Gemini Live-Response Toolkit** | Wrapper around Google Gemini’s streaming API to stop mid-sentence freak-outs. |
 | **Dutch-Auction Sim** | A browser-based Dutch auction playground with bot buyers, animated dealers, and price graphs. |
 | **Cocoa Autoencoder** | Tiny 🤏 VAE squeezing Cocoapods (and my GPU) just to learn compression math. |
@@ -23,7 +23,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,react,nextjs,pyTorch,opencv,vite,blender,githubactions,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,react,html,pyTorch,opencv,blender,githubactions,bash" />
 </p>
 
 ---
