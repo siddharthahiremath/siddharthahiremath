@@ -29,7 +29,7 @@
 ---
 
 ## 📊 GitHub Stats
-Hiding until I learn to keep my git up to date. &#128557
+Hiding until I learn to keep my git up to date. <p>&#128557</p>
 
 ---
 
