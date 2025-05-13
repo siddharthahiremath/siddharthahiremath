@@ -13,9 +13,9 @@
 | Project | TL;DR |
 |---------|-------|
 | **Web Browsing Agent** | A desktop agent that sees, clicks & types so you don’t have to. Python + OpenCV + GPT function-calling. |
-| **Gemini Live-Response Toolkit** | Wrapper around Google Gemini’s streaming API to stop mid-sentence freak-outs. |
 | **Dutch-Auction Sim** | A browser-based Dutch auction playground with bot buyers, animated dealers, and price graphs. |
 | **Cocoa Autoencoder** | Tiny 🤏 VAE squeezing Cocoapods (and my GPU) just to learn compression math. |
+| **J.A.R.V.I.S** | Seeing how many tool calls I can stuff into the Gemini API before it breaks|
 
 > ⚡ I also keep a drawer full of half-finished experiments: reinforcement-learning bots, Trackmania Wine bottles, Blender physics, and a GPU-powered space heater.
 
