@@ -1,66 +1,50 @@
 <!-- PROFILE README for https://github.com/siddharthahiremath -->
 
-<h1 align="center">Hey 👋 I’m Siddhartha Hiremath</h1>
+<h1 align="center">Hey&nbsp;👋&nbsp;I’m&nbsp;Siddhartha&nbsp;Hiremath</h1>
 
 <p align="center">
-  🧑‍💻 12‑year‑old builder <br/>
-  🤖 I spend <em>five hours</em> coding bots to skip <em>five‑minute</em> chores <br/>
-  📍 Reno, NV
+  🧑‍💻 &nbsp;12‑year‑old builder<br/>
+  🤖 &nbsp;I spend <em>five hours</em> coding bots to skip <em>five‑minute</em> chores<br/>
+  📍 &nbsp;Reno, NV
 </p>
 
 ---
 
-## 🚀 What I’m hacking on right now
+## 🚀 Currently Building
 
-| Project                           | TL;DR                                                                                                                |
-| --------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Web Browsing Agent**            | Closed‑source desktop agent that sees, clicks & types so you don’t have to — Python + OpenCV + GPT function‑calling. |
-| **Jarvis Voice Assistant**        | Always‑on voice bot (`wake‑word` + streaming LLM) that transcribes, thinks, and chats back a la Iron Man.            |
-| **Dutch‑Auction Sim**             | A browser‑based auction playground with bot buyers, animated dealers, and price graphs.                              |
-| **Image‑Compression Autoencoder** | Unfinished VAE experiment on image compression (learning, not shipping… yet).                                        |
+| Project                           | TL;DR                                                                                                   |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Web Browsing Agent**            | Closed‑source desktop agent that sees, clicks & types for you — Python + OpenCV + GPT function‑calling. |
+| **Jarvis Voice Assistant**        | Always‑on voice bot (wake‑word + streaming LLM) that transcribes, thinks, and replies—Iron‑Man style.   |
+| **Dutch‑Auction Sim**             | Browser‑based auction sandbox with bot buyers, animated dealers, and live price graphs.                 |
+| **Image‑Compression Autoencoder** | WIP VAE experiment exploring image compression tricks.                                                  |
 
-> ⚡ I also keep a drawer full of half‑finished experiments: reinforcement‑learning bots, Trackmania Wine bottles, Blender physics, and a GPU‑powered space heater.
+> ⚡ I tinker with everything from RL bots to Blender physics — whatever looks fun.
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,react,html,pytorch,opencv,blender,githubactions,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,react,html,pytorch,opencv,blender,githubactions,bash"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-Hiding until I learn to keep my git up to date. 😭
 
 ---
 
 ## 🌟 Featured Repos
 
-<!-- Note: Web Browsing Agent is closed‑source, so no public repo link -->
+* [`jarvis-voice-assistant`](https://github.com/siddharthahiremath/jarvis-voice-assistant) – Wake‑word, echo‑cancellation, streaming GPT responses. Jarvis, minus the suit (for now).
+* [`dutch-auction-sim`](https://github.com/siddharthahiremath/dutch-auction-sim) – Game‑theory playground written with Node & Vite.
 
-* [`jarvis-voice-assistant`](https://github.com/siddharthahiremath/jarvis-voice-assistant) – Wake‑word, echo‑cancellation, streaming GPT responses. Jarvis, but no suit (yet).
-* [`dutch-auction-sim`](https://github.com/siddharthahiremath/dutch-auction-sim) – Game‑theory sandbox built with Node, Vite & too much caffeine.
-
-More public projects coming soon — stay tuned!
-
-Pin your favourites so they float to the top of my profile ⬆️
+<sub>More projects coming soon—stay tuned!</sub>
 
 ---
 
-## ✍️ What I'm thinking about rn
+## 💬 Let’s Chat
 
-Why a 12‑year‑old needs an RTX 5090
+*Ping me on **Twitter/X @\_\_hiremath** or **Discord \_siddev***
+Have a bug, an idea, or want to debate whether automating homework counts as cheating (kidding, Ms. V)? Hit me up!
 
 ---
 
-## 💬 Let’s chat
-
-*DMs open on **Twitter/X @\_\_hiremath** & **Discord \_siddev***
-If you have a bug, an idea, or just want to debate whether automating homework counts as cheating (kidding, Ms. V), hit me up!
-
-<p align="center"><i>
-“Automate the boring stuff… then automate the automation so you can go build something even more ridiculous.”
-</i></p>
+<p align="center"><i>“Automate the boring stuff… then automate the automation so you can build something even cooler.”</i></p>
