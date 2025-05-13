@@ -29,11 +29,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthahiremath&show_icons=true&theme=default&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthahiremath" />
-</p>
+Hiding until I learn to keep my git up to date. &#128557
 
 ---
 
