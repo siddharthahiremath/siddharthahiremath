@@ -43,9 +43,8 @@ Pin your favourites so they float to the top of my profile ⬆️
 
 ---
 
-## ✍️ Blog-ish
-Occasional brain-dumps on **AI automation, GPU heat-recycling, and why a 12-year-old needs an RTX 4090** → <https://opsai.dev>
-
+## ✍️ What I'm thinking about rn
+why a 12-year-old needs an RTX 4090
 ---
 
 ## 💬 Let’s chat
