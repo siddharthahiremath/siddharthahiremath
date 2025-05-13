@@ -4,7 +4,7 @@
 <p align="center">
   🧑‍💻 12-year-old builder <br/>
   🤖 I spend <em>five hours</em> coding bots to skip <em>five-minute</em> chores <br/>
-  📍 Reno, NV • <a href="https://opsai.dev">opsai.dev</a>
+  📍 Reno, NV
 </p>
 
 ---
