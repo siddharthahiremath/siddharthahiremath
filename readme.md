@@ -33,7 +33,7 @@
 
 ## 🌟 Featured Repos
 
-* [`J.A.R.V.I.S.A.I`](https://github.com/siddharthahiremath/J.A.R.V.I.S.A.I) – Wake‑word, echo‑cancellation, streaming GPT responses. Jarvis, minus the suit (for now).
+* [`J.A.R.V.I.S.A.I`](https://github.com/siddharthahiremath/J.A.R.V.I.S.AI) – Wake‑word, echo‑cancellation, streaming GPT responses. Jarvis, minus the suit (for now).
 * [`dutch-auction-sim`](https://github.com/siddharthahiremath/dutch-auction-sim) – Game‑theory playground written with Node & Vite.
 
 <sub>More projects coming soon—stay tuned!</sub>
