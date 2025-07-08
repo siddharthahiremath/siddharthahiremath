@@ -3,7 +3,7 @@
 <h1 align="center">Hey&nbsp;👋&nbsp;I’m&nbsp;Siddhartha&nbsp;Hiremath</h1>
 
 <p align="center">
-  🧑‍💻 &nbsp;12‑year‑old builder<br/>
+  🧑‍💻 &nbsp;13‑year‑old builder<br/>
   🤖 &nbsp;I spend <em>five hours</em> coding bots to skip <em>five‑minute</em> chores<br/>
   📍 &nbsp;Reno, NV
 </p>
