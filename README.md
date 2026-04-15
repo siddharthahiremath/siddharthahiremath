@@ -43,7 +43,7 @@
 ## 💬 Let’s Chat
 
 *Ping me on **Twitter/X @\_\_hiremath** or **Discord \_siddev***
-Have a bug, an idea, or want to debate whether automating homework counts as cheating (kidding, Ms. V)? Hit me up!
+Have a bug or an idea? Hit me up!
 
 ---
 
